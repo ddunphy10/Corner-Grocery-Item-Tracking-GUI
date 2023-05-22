@@ -1,0 +1,27 @@
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\bin\Debug\net5.0-windows\Corner Grocery Item Tracking.exe
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\bin\Debug\net5.0-windows\Corner Grocery Item Tracking.deps.json
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\bin\Debug\net5.0-windows\Corner Grocery Item Tracking.runtimeconfig.json
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\bin\Debug\net5.0-windows\Corner Grocery Item Tracking.runtimeconfig.dev.json
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\bin\Debug\net5.0-windows\Corner Grocery Item Tracking.dll
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\bin\Debug\net5.0-windows\ref\Corner Grocery Item Tracking.dll
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\bin\Debug\net5.0-windows\Corner Grocery Item Tracking.pdb
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\obj\Debug\net5.0-windows\Corner Grocery Item Tracking.csproj.AssemblyReference.cache
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\obj\Debug\net5.0-windows\Corner Grocery Item Tracking.csproj.GenerateResource.cache
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\obj\Debug\net5.0-windows\Corner Grocery Item Tracking.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\obj\Debug\net5.0-windows\Corner Grocery Item Tracking.AssemblyInfoInputs.cache
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\obj\Debug\net5.0-windows\Corner Grocery Item Tracking.AssemblyInfo.cs
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\obj\Debug\net5.0-windows\Corner Grocery Item Tracking.csproj.CoreCompileInputs.cache
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\obj\Debug\net5.0-windows\Corner Grocery Item Tracking.dll
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\obj\Debug\net5.0-windows\ref\Corner Grocery Item Tracking.dll
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\obj\Debug\net5.0-windows\Corner Grocery Item Tracking.pdb
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\obj\Debug\net5.0-windows\Corner Grocery Item Tracking.genruntimeconfig.cache
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\obj\Debug\net5.0-windows\Corner_Grocery_Item_Tracking.Properties.Resources.resources
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\obj\Debug\net5.0-windows\Corner_Grocery_Item_Tracking.LOGIN.resources
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\obj\Debug\net5.0-windows\Corner_Grocery_Item_Tracking.Main.resources
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Dayton\Personal Projects\C# Projects\Corner Grocery Item Tracking\obj\Debug\net5.0-windows\Corner Grocery Item Tracking.csproj.CopyComplete
